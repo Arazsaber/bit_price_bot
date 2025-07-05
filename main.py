@@ -1,4 +1,4 @@
-from telegram import Bot
+from telegram import Bot, Update
 from telegram.ext import ApplicationBuilder, ContextTypes
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import requests
