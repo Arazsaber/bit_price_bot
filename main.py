@@ -6,7 +6,7 @@ import logging
 
 TOKEN = "8052658426:AAFDSXMIhzLH40RY1zGC0DVHHytaj5W6_Zs"
 CHANNEL_ID = "-1001234567890"  # آی‌دی عددی کانال تلگرام
-INTERVAL_MINUTES = 5           # فاصله ارسال خودکار (دقیقه)
+INTERVAL_MINUTES = 1           # فاصله ارسال خودکار (دقیقه)
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
